@@ -20,23 +20,23 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": ""
+            "value": "5958979137:AAHnkWCFRy_B7dXULWPkhip6f7kB0YkEEUw"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "5604474"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "45425c2c16f2c177c71b5748fb87c3ad"
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "value": ""
+            "value": "1863977582"
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": ""
+            "value": "951824622"
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
@@ -75,11 +75,11 @@
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://Unknownds:Unknownds@cluster0.b1y6nwf.mongodb.net/?retryWrites=true&w=majority"
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB",
-            "value": ""
+            "value": "Unknownds"
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
